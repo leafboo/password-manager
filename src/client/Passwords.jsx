@@ -15,7 +15,7 @@ export default function Passwords() {
   )
 
   return (
-    <div>
+    <div className={PasswordsCSS['passwords-container']}>
       {AccountsElement}
     </div>
   )
