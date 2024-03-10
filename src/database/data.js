@@ -1,4 +1,4 @@
-export const data = [
+const accountsData = [
   {
     logoName: "google",
     logo: "https://static.vecteezy.com/system/resources/thumbnails/012/871/371/small/google-search-icon-google-product-illustration-free-png.png",
@@ -22,3 +22,5 @@ export const data = [
   }
 
 ]
+
+export default accountsData
